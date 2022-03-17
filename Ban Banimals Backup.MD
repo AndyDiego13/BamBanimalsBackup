@@ -142,14 +142,12 @@ _(example)_
 
 1. BasePlayer
     1. PlayerMain: Luhzio
-    <p> This is the main character, the only Bam Banimal that isn't affected by the virus. </p>
+    <p> This is the main character, the only Bam Banimal that isn't affected by the virus. It is a purple tiger. </p>
     <center><img  src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Luhzio.png?raw=true"></center>
     
 2. Enemies
     1. Potatzio
     <p> This is a hybrid of a fox and a rabbit, you can collect it after you beat level 1 </p>
-     <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/PotatzioVirus.png?raw=true" title = "Potatzio while infected" ></center>
-    <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Potatzio.png?raw=true" title = "Potatzio when you beat level 1" ></center>
     2. Maparillo
     <p> This is a polar bear and a racoon hybrid, you can collect it after you beat level 2</p>
     3. Kiwano
@@ -158,16 +156,8 @@ _(example)_
     <p> A toucan and monkey hybrid, , you can collect it after you beat level 4 </p>
     5. Akevia
     <p> The final boss and leader of the island, an axolotl and quetzal hybrid. </p>
-3. BaseObject
-    1. ObjectRock (pick-up-able, throwable)
-    2. ObjectChest (pick-up-able, throwable, spits gold coins with key)
-    3. ObjectGoldCoin (cha-ching!)
-    4. ObjectKey (pick-up-able, throwable)
-4. BaseObstacle
-    1. ObstacleWindow (destroyed with rock)
-    2. ObstacleWall
-    3. ObstacleGate (watches to see if certain buttons are pressed)
-5. BaseInteractable
+
+3. BaseInteractable
     1. InteractableButton
 
 _(example)_
@@ -178,9 +168,20 @@ _(example)_
 
 ### **Style Attributes**
 
-What kinds of colors will you be using? Do you have a limited palette to work with? A post-processed HSV map/image? Consistency is key for immersion.
+The style of the game are pixel art, we are using procreate to make the sprites and their animation. The main color scheme is pastel colors, and each character has a "main" color, for example Luhzio is purple, Potatzio yellow and Maparillo grey and creme, so the player doesn't confuse the ban banimals. The characters will have an outline of a darker shade of their main color, and some shading.
 
-What kind of graphic style are you going for? Cartoony? Pixel-y? Cute? How, specifically? Solid, thick outlines with flat hues? Non-black outlines with limited tints/shades? Emphasize smooth curvatures over sharp angles? Describe a set of general rules depicting your style here.
+#### Luhzio
+
+<center><img  src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Luhzio.png?raw=true"></center>
+
+#### Potatzio
+<center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Potatzio.png?raw=true" title = "Potatzio when you beat level 1" ></center>
+
+
+#### Currupted Potatzio
+
+<center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/PotatzioVirus.png?raw=true" title = "Potatzio while infected" ></center>
+
 
 Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), are great for teaching the player how to play through trial and error, instead of scripting a lengthy tutorial. What kind of visual feedback are you going to use to let the player know they&#39;re interacting with something? That they \*can\* interact with something?
 
