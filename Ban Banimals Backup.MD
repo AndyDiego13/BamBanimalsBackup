@@ -157,9 +157,7 @@ _(example)_
 
 1. BasePlayer
     1. PlayerMain: Luhzio
-    <p> This is the main character, the only Bam Banimal that isn't affected by the virus. It is a purple tiger. </p>
-    <center><img  src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Luhzio.png?raw=true"></center>
-    
+    <p> This is the main character, the only Bam Banimal that isn't affected by the virus. It is a purple tiger. </p>  
 2. Enemies
     1. Potatzio
     <p> This is a hybrid of a fox and a rabbit, you can collect it after you beat level 1 </p>
@@ -183,7 +181,7 @@ _(example)_
 
 ### **Style Attributes**
 
-The style of the game are pixel art, we are using procreate to make the sprites and their animation. The main color scheme is pastel colors, and each character has a "main" color, for example Luhzio is purple, Potatzio yellow and Maparillo grey and creme, so the player doesn't confuse the ban banimals. The characters will have an outline of a darker shade of their main color, and some shading.
+The style of the game are pixel art, we are using procreate to make the sprites and their animation. The main color scheme is pastel colors, and each character has a "main" color, for example Luhzio is purple, Potatzio yellow and Maparillo grey and creme, so the player doesn't confuse the bam banimals. The characters will have an outline of a darker shade of their main color, and some shading.
 
 #### Luhzio
 
