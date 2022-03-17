@@ -60,9 +60,19 @@ What kind of mindset do you want to provoke in the player? Do you want them to f
 
 ### **Screens**
 
-1. Title Screen
-    1. Options
+1. Main Menu
+    1. Title of Game
+    2. Play game button
 2. Level Select
+    1. Map of the island
+    2. The characters you are currently using
+#### Inspiration ideas
+
+<img src = "https://media.istockphoto.com/vectors/map-builder-illusrations-for-fantasy-and-medieval-cartography-and-vector-id1279356465">
+
+<img src = "https://img.freepik.com/vector-gratis/encuentra-diferencias-juego-educativo-ninos-mapa-islas_255358-3185.jpg?size=338&ext=jpg">
+
+<img src = "https://roleplus.app/img/usuarios/e95ef954d2b/UDEUP0034.jpg">
 3. Game
     1. Inventory
     2. Assessment / Next Level
