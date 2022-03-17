@@ -11,9 +11,9 @@
 
 ---
 
-- [**Bam! Banimal! Adventure**](#game-name-here)
+- [**Bam! Banimal! Adventure**](#bam-banimal-adventure)
   - [_Game Design Document_](#game-design-document)
-        - [**Copyright notice / author information / boring legal stuff nobody likes**](#copyright-notice--author-information--boring-legal-stuff-nobody-likes)
+        - [**Copyright notice / Andrea Serrano Diego, Ariadne Alvarez Reyes and Andrea Yela González / boring legal stuff nobody likes**](#copyright-notice--andrea-serrano-diego-ariadne-alvarez-reyes-and-andrea-yela-gonzález--boring-legal-stuff-nobody-likes)
   - [_Index_](#index)
   - [_Game Design_](#game-design)
     - [**Summary**](#summary)
@@ -25,6 +25,7 @@
     - [**Mechanics**](#mechanics)
   - [_Level Design_](#level-design)
     - [**Themes**](#themes)
+      - [Sketch of the island](#sketch-of-the-island)
     - [**Game Flow**](#game-flow)
   - [_Development_](#development)
     - [**Abstract Classes / Components**](#abstract-classes--components)
@@ -48,7 +49,7 @@ Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
 
 ### **Gameplay**
 
-What should the gameplay be like? What is the goal of the game, and what kind of obstacles are in the way? What tactics should the player use to overcome them?
+The development of the gameplay in each level begins with tempo tracking, interacting with buttons that will give the user the correct tempo guideline to get the right tempo for each musical note of a specific drum kit. In order to become familiar with the drums, the concept of the tempo and musical notes.
 
 ### **Mindset**
 
