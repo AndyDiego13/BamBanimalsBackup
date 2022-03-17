@@ -73,13 +73,29 @@ What kind of mindset do you want to provoke in the player? Do you want them to f
 
 ### **Screens**
 
-1. Title Screen
-    1. Options
+1. Main Menu
+    1. Title of Game
+    2. Play game button
 2. Level Select
+    1. Map of the island
+    2. The characters you are currently using
+#### Inspiration ideas
+
+<img src = "https://media.istockphoto.com/vectors/map-builder-illusrations-for-fantasy-and-medieval-cartography-and-vector-id1279356465">
+
+<img src = "https://img.freepik.com/vector-gratis/encuentra-diferencias-juego-educativo-ninos-mapa-islas_255358-3185.jpg?size=338&ext=jpg">
+
+<img src = "https://roleplus.app/img/usuarios/e95ef954d2b/UDEUP0034.jpg">
+
 3. Game
-    1. Inventory
-    2. Assessment / Next Level
-4. End Credits
+    1. On the left you can see the characters you are playing as
+    2. On the right you find the currupted bam banimal you need to fix
+    3. Above the currupted character you see its currupted level.
+    4. On the screen it will appear the keys you need to press to help the bam banimal.
+4. Winning Level
+    1. It will show the new character you saved and its powers/instrument they represent.
+5. End Credits
+    
 
 _(example)_
 
