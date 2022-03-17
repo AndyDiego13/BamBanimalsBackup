@@ -17,6 +17,7 @@
   - [_Index_](#index)
   - [_Game Design_](#game-design)
     - [**Summary**](#summary)
+    - [**Storytelling**](#storytelling)
     - [**Gameplay**](#gameplay)
     - [**Mindset**](#mindset)
   - [_Technical_](#technical)
@@ -45,6 +46,18 @@
 ### **Summary**
 
 Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
+Ban Banimal Adventure its a videogame where players will be able to learn different musical ensembles of percussion instruments through an adventurousness mission in an island which is affected by a virus that clashes/corrupts with certain ban banimals.
+
+### **Storytelling**
+
+The story begins on a tropical island where musical animals called Bam Banimals lived. Suddenly an unfortunate event happened, a virus arrived at the island and affected many Bam Banimals, causing their tuning to be out of tune. So now they were lost and scattered on the island without intonation.
+
+Luhzio our main character is the only one who was not influenced, so the story starts with the player as Luhzio where through the island he will go through several levels that consist of re-singing his friends with the relevant percussion for each one. Each Bam Banimal it's different for each level and the player must past the levels completely to get to the other one because they are going to be blocked as well as the characters.
+
+In the character description, we are going to show his skills as music theory and by learning the musical combinations you manage to beat the virus for each one of them till the final boss.
+
+In an educational way, the objective for the player is to know and identify with musical theory the combinations with each sound that can be formed depending on the skills of each character.
+
 
 ### **Gameplay**
 
@@ -171,33 +184,22 @@ Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), a
 ### **Graphics Needed**
 
 1. Characters
-    1. Human-like
-        1. Goblin (idle, walking, throwing)
-        2. Guard (idle, walking, stabbing)
-        3. Prisoner (walking, running)
-    2. Other
-        1. Wolf (idle, walking, running)
-        2. Giant Rat (idle, scurrying)
-2. Blocks
-    1. Dirt
-    2. Dirt/Grass
-    3. Stone Block
-    4. Stone Bricks
-    5. Tiled Floor
-    6. Weathered Stone Block
-    7. Weathered Stone Bricks
-3. Ambient
-    1. Tall Grass
-    2. Rodent (idle, scurrying)
-    3. Torch
-    4. Armored Suit
-    5. Chains (matching Weathered Stone Bricks)
-    6. Blood stains (matching Weathered Stone Bricks)
-4. Other
-    1. Chest
-    2. Door (matching Stone Bricks)
-    3. Gate
-    4. Button (matching Weathered Stone Bricks)
+    1. Animal-like
+        1. Luhzio (idle, walking, throwing)
+        2. Potatzio (idle, walking, stabbing)
+        3. Maparillo (walking, running)
+        4. Kiwano
+        5. Flabio
+        6. Tutancamon
+        7. Akevia
+    
+2. Ambient
+    1. Island
+    2. Tropical 
+    3. Water (Underwater level)
+    4. Sand
+    5. Day/Night (From day to dawn)
+    6. Contamined zone (island virus)
 
 _(example)_
 
