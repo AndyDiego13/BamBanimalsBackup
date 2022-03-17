@@ -46,7 +46,7 @@
 ### **Summary**
 
 Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
-Ban Banimal Adventure its a videogame where players will be able to learn different musical ensembles of percussion instruments through an adventurousness mission in an island which is affected by a virus that clashes/corrupts with certain ban banimals.
+Bam Banimal Adventure its a videogame where players will be able to learn different musical ensembles of percussion instruments through an adventurousness mission in an island which is affected by a virus that clashes/corrupts with certain Bam Banimals.
 
 ### **Storytelling**
 
