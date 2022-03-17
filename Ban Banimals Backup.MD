@@ -54,6 +54,8 @@ The story begins on a tropical island where musical animals called Bam Banimals 
 
 Luhzio our main character is the only one who was not influenced, so the story starts with the player as Luhzio where through the island he will go through several levels that consist of re-singing his friends with the relevant percussion for each one. Each Bam Banimal it's different for each level and the player must past the levels completely to get to the other one because they are going to be blocked as well as the characters.
 
+The reason why Luhzio was not affected is because he is only a purple tiger, he doesn't have any duality with other animal. The other animals got corrupted only by one half of them.
+
 In the character description, we are going to show his skills as music theory and by learning the musical combinations you manage to beat the virus for each one of them till the final boss.
 
 In an educational way, the objective for the player is to know and identify with musical theory the combinations with each sound that can be formed depending on the skills of each character.
@@ -201,13 +203,13 @@ Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), a
 
 1. Characters
     1. Animal-like
-        1. Luhzio (idle, walking, throwing)
-        2. Potatzio (idle, walking, stabbing)
-        3. Maparillo (walking, running)
-        4. Kiwano
-        5. Flabio
-        6. Tutancamon
-        7. Akevia
+        1. Luhzio (levitating)
+        2. Potatzio (levitating) (glitched)
+        3. Maparillo (levitating) (glitched)
+        4. Kiwano (levitating) (glitched)
+        5. Flabio (levitating) (glitched)
+        6. Tutancamon (levitating) (glitched)
+        7. Akevia (levitating) (glitched)
     
 2. Ambient
     1. Island
