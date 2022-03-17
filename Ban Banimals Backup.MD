@@ -99,7 +99,7 @@ What kind of mindset do you want to provoke in the player? Do you want them to f
 5. End Credits
     
 
-_(example)_
+
 
 ### **Controls**
 
