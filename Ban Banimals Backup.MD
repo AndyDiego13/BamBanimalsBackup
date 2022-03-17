@@ -53,7 +53,7 @@ The development of the gameplay in each level begins with tempo tracking, intera
 
 ### **Mindset**
 
-What kind of mindset do you want to provoke in the player? Do you want them to feel powerful, or weak? Adventurous, or nervous? Hurried, or calm? How do you intend to provoke those emotions?
+I want users to feel fun while learning the basics of music theory, to feel more confident and secure as each level goes by, to increase their knowledge of drum parts and percussion rhythms, and to feel satisfied with completing a full song by the end of the game.
 
 ## _Technical_
 
