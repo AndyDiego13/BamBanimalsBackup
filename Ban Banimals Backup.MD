@@ -73,7 +73,7 @@ _(example)_
 
 ### **Controls**
 
-How will the player interact with the game? Will they be able to choose the controls? What kind of in-game events are they going to be able to trigger, and how? (e.g. pressing buttons, opening doors, etc.)
+The controls will be the letters "T", "Y", "U", "F", "G" on the keyboard, each assigned to a classic drum part. Players will have to press the key at the moment the guide button of the indication.
 
 ### **Mechanics**
 
